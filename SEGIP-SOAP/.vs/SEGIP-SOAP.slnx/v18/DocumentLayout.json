@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\app_code\\dao\\medicosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:app_code\\dao\\medicosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\app_code\\segipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:app_code\\segipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\app_code\\data\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:app_code\\data\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\app_code\\data\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:app_code\\data\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|d:\\ciencias\\monty-final\\segip-soap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AACAD5D0-B0E7-43CA-9504-5E1999E858B8}|D:\\Ciencias\\monty-final\\SEGIP-SOAP|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicosDAO.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\DAO\\MedicosDAO.cs",
+              "RelativeDocumentMoniker": "App_Code\\DAO\\MedicosDAO.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\DAO\\MedicosDAO.cs",
+              "RelativeToolTip": "App_Code\\DAO\\MedicosDAO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:15:11.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\Data\\Response.cs",
+              "RelativeDocumentMoniker": "App_Code\\Data\\Response.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\Data\\Response.cs",
+              "RelativeToolTip": "App_Code\\Data\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:12:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\Data\\Medico.cs",
+              "RelativeDocumentMoniker": "App_Code\\Data\\Medico.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\Data\\Medico.cs",
+              "RelativeToolTip": "App_Code\\Data\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:10:35.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegipService.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\SegipService.cs",
+              "RelativeDocumentMoniker": "App_Code\\SegipService.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\App_Code\\SegipService.cs",
+              "RelativeToolTip": "App_Code\\SegipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T19:09:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-04T19:09:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-04T19:08:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Ciencias\\monty-final\\SEGIP-SOAP\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-04T19:08:44.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
