@@ -2,7 +2,7 @@
   <Configurations>
     <BuildType Name="Debug" />
   </Configurations>
-  <Project Path="." Type="Website" DisplayName="SEGIP-SOAP">
+  <Project Path="." Type="Website" DisplayName="SEGIP-SOAP" Id="aacad5d0-b0e7-43ca-9504-5e1999e858b8">
     <Properties Name="WebsiteProperties">
       <Property Name="Debug.AspNetCompiler.Debug" Value="&quot;True&quot;" />
       <Property Name="Debug.AspNetCompiler.FixedNames" Value="&quot;false&quot;" />

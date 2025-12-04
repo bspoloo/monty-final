@@ -1,0 +1,10 @@
+D:\Ciencias\monty-final\Medico-Forms\bin\Debug\Medico-Forms.exe.config
+D:\Ciencias\monty-final\Medico-Forms\bin\Debug\Medico-Forms.exe
+D:\Ciencias\monty-final\Medico-Forms\bin\Debug\Medico-Forms.pdb
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico-Forms.csproj.AssemblyReference.cache
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico_Forms.Form1.resources
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico_Forms.Properties.Resources.resources
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico-Forms.csproj.GenerateResource.cache
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico-Forms.csproj.CoreCompileInputs.cache
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico-Forms.exe
+D:\Ciencias\monty-final\Medico-Forms\obj\Debug\Medico-Forms.pdb
