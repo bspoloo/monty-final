@@ -25,6 +25,8 @@ namespace Medico_Forms
             if (isValid)
             {
                 MessageBox.Show("Cédula válida.");
+                Form formReceta = new RecetaForm();
+                formReceta.Show();
             }
             else
             {

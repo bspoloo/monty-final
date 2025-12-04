@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Ciencias\\monty-final\\Medico-Forms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\recetaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:recetaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\recetaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:recetaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\entities\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:entities\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\services\\recetasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:services\\recetasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|D:\\Ciencias\\monty-final\\Medico-Forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|d:\\ciencias\\monty-final\\medico-forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC53814A-6966-4D5D-87D8-F3112DD962E0}|Medico-Forms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +43,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RecetaForm.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\RecetaForm.cs",
+              "RelativeDocumentMoniker": "RecetaForm.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\RecetaForm.cs",
+              "RelativeToolTip": "RecetaForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:40:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:40:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\Entities\\Receta.cs",
+              "RelativeDocumentMoniker": "Entities\\Receta.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\Entities\\Receta.cs",
+              "RelativeToolTip": "Entities\\Receta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:34:32.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetasService.cs",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\Services\\RecetasService.cs",
+              "RelativeDocumentMoniker": "Services\\RecetasService.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\Services\\RecetasService.cs",
+              "RelativeToolTip": "Services\\RecetasService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:28:13.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecetaForm.cs [Design]",
+              "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\RecetaForm.cs",
+              "RelativeDocumentMoniker": "RecetaForm.cs",
+              "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\RecetaForm.cs [Design]",
+              "RelativeToolTip": "RecetaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T20:20:47.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Ciencias\\monty-final\\Medico-Forms\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T19:46:43.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Ciencias\\monty-final\\Medico-Forms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

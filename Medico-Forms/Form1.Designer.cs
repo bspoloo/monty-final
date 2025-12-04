@@ -34,7 +34,7 @@
             // 
             // buttonValidar
             // 
-            this.buttonValidar.Location = new System.Drawing.Point(183, 33);
+            this.buttonValidar.Location = new System.Drawing.Point(319, 60);
             this.buttonValidar.Name = "buttonValidar";
             this.buttonValidar.Size = new System.Drawing.Size(75, 23);
             this.buttonValidar.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // textBoxCI
             // 
-            this.textBoxCI.Location = new System.Drawing.Point(63, 35);
+            this.textBoxCI.Location = new System.Drawing.Point(308, 34);
             this.textBoxCI.Name = "textBoxCI";
             this.textBoxCI.Size = new System.Drawing.Size(100, 20);
             this.textBoxCI.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(765, 144);
             this.Controls.Add(this.textBoxCI);
             this.Controls.Add(this.buttonValidar);
             this.Name = "Form1";
